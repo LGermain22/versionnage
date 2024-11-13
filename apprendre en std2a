@@ -1,14 +1,18 @@
-OBJETS:
- matériel de dessin 
- mobilier scolaire
-ACTEURS:
- elève
- profs
- parents d'elève
-INFRASTRUCTURES:
- batiment
- salle de classe
-SERVICES:
- délégué
- CVL
- outils numériques
+DEFINITION DU PROBLEME
+ apprendre dans une classe de trente élèves
+ en première
+COMPOSANTES
+ OBJETS:
+  matériel de dessin 
+  mobilier scolaire
+ ACTEURS:
+  elève
+  profs
+  parents d'elève
+ INFRASTRUCTURES:
+  batiment
+  salle de classe
+ SERVICES:
+  délégué
+  CVL
+  outils numériques
