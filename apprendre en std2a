@@ -1,12 +1,14 @@
-OBJETS
+OBJETS:
  matériel de dessin 
  mobilier scolaire
-ACTEURS
+ACTEURS:
  elève
  profs
  parents d'elève
-INFRASTRUCTURES
+INFRASTRUCTURES:
  batiment
  salle de classe
-SERVICES
+SERVICES:
  délégué
+ CVL
+ outils numériques
